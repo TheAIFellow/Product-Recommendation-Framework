@@ -9,16 +9,16 @@ Amazon uses recommendations as a targeted marketing tool in both email campaigns
 * Hybrid Recommendation Systems
 
 ## **Feature Details**
-User_Id
-Product_Id 
-Review
-Ratings
+* User_Id
+* Product_Id 
+* Review
+* Ratings
 
 ### Steps:
-EDA/Feature analysis
-Data Preprocessing
-Machine Learning Models
-Model Evaluation
+* EDA/Feature analysis
+* Data Preprocessing
+* Machine Learning Models
+* Model Evaluation
 
 # **Conclusion**
 ---
