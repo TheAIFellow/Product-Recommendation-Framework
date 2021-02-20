@@ -15,10 +15,14 @@ Amazon uses recommendations as a targeted marketing tool in both email campaigns
 * Ratings
 
 ### Steps:
-* EDA/Feature analysis
-* Data Preprocessing
-* Machine Learning Models
-* Model Evaluation
+* Data Summary
+* Recommendation System
+* Product Recommendation
+* Approaches of Recommendation Systems
+* Exploratory Data Analysis
+* Machine Learning Algorithm
+* Evaluation Metrics
+
 
 # **Conclusion**
 ---
